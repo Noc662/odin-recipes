@@ -1,0 +1,23 @@
+body {
+  background-color: #dbe2ef;
+  color: #112d4e;
+  font-family: "Merriweather", serif;
+  font-size: 1.2rem;
+  line-height: 1.6em;
+  margin-left: 2%;
+}
+
+.container {
+}
+
+#description {
+}
+
+h1 {
+  font-family: "Fredoka", sans-serif;
+  font-size: 2.5rem;
+}
+
+h2 {
+  background-color: #3f72af;
+}
